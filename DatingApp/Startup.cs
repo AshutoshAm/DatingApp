@@ -52,7 +52,6 @@ namespace DatingApp
 
             });
 
-
             services.AddCors();
 
             services.AddIdentityServices(Configuration);
